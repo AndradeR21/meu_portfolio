@@ -21,3 +21,4 @@ Sou Rafael Andrade, Estudante de Egenharia da Computação na Faculdade de Tecno
 * Graduação em Engenharia da Computação pela Faculdade Impacta (2019-2022).
 * Curso Python & Hadoop for Big Data and Machine Learning pela 4Linux.
 * Curso Big Data Essentials pela 4Linux.
+* Curso Introdução a Data Science com Python pela Caelum.
